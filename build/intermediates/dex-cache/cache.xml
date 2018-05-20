@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/weichengyongxiao/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/Users/weichengyongxiao/Documents/Study/mobile-Internet/lab2/Countdown/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichengyongxiao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/44bac1e9d9b958df1260a846492ff6ea/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d968b9bd0011800e0d333d1571b8d34bcb8a0b6e">
+        <dex dex="/Users/weichengyongxiao/Documents/Study/mobile-Internet/lab2/Countdown/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichengyongxiao/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9bc8feeb846c6dfbfce8d2d470f1f2cb/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/Users/weichengyongxiao/Documents/Study/mobile-Internet/lab2/Countdown/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichengyongxiao/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.0/931532e953a477f876f2de18c2e7f16eee01078f/constraint-layout-solver-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="931532e953a477f876f2de18c2e7f16eee01078f">
+        <dex dex="/Users/weichengyongxiao/Documents/Study/mobile-Internet/lab2/Countdown/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichengyongxiao/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/dd6b50c732e7f54ce51764a445cf3241/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2feadd535770271ca57b7b431f42151aa4af324a">
+        <dex dex="/Users/weichengyongxiao/Documents/Study/mobile-Internet/lab2/Countdown/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichengyongxiao/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/4d8144abc4e22388c2c8555e26322735/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c9a721adcd7dbae7a197b0ef81102336539f63ff">
+        <dex dex="/Users/weichengyongxiao/Documents/Study/mobile-Internet/lab2/Countdown/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichengyongxiao/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7fc65e4e16e8215d05623e3c75b07aa6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="/Users/weichengyongxiao/Documents/Study/mobile-Internet/lab2/Countdown/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichengyongxiao/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5130e86089c6e0804be550352b081874/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/Users/weichengyongxiao/Documents/Study/mobile-Internet/lab2/Countdown/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichengyongxiao/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/058868e15b0d060d80600b7da0ec9c92/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="/Users/weichengyongxiao/Documents/Study/mobile-Internet/lab2/Countdown/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichengyongxiao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/57b4b60c05e18b1a521cc8619846cdb8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/Users/weichengyongxiao/Documents/Study/mobile-Internet/lab2/Countdown/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichengyongxiao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/43f9feea161504263cc22a58bdf19dae/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/Users/weichengyongxiao/Documents/Study/mobile-Internet/lab2/Countdown/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichengyongxiao/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/705c4b49ac39069f538c22b1cab9bd16/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f46121a7c3b3ba958fc27c39447ae205be23ac4a">
+        <dex dex="/Users/weichengyongxiao/Documents/Study/mobile-Internet/lab2/Countdown/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichengyongxiao/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/Users/weichengyongxiao/Documents/Study/mobile-Internet/lab2/Countdown/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichengyongxiao/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/bdd55d61aa36352396e32ef52aadb855/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="/Users/weichengyongxiao/Documents/Study/mobile-Internet/lab2/Countdown/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichengyongxiao/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/Users/weichengyongxiao/Documents/Study/mobile-Internet/lab2/Countdown/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichengyongxiao/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/365324a7a24643ab14b74fe0cfd91114/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="/Users/weichengyongxiao/Documents/Study/mobile-Internet/lab2/Countdown/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichengyongxiao/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/0c4380328474180b7953e44a632081fa/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/weichengyongxiao/Documents/Study/mobile-Internet/lab2/Countdown/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+
+</items>
