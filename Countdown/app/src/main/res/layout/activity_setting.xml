@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Title"
+        android:id="@+id/et1"/>
+
+    <EditText
+        android:id="@+id/date_et"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:hint="Click to chose date"
+        android:inputType="date"
+        app:layout_constraintTop_toBottomOf="@id/et1"/>
+
+    <EditText
+        android:id="@+id/time_et"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:hint="Click to chose time"
+        android:inputType="time"
+        app:layout_constraintTop_toBottomOf="@id/date_et"/>
+
+    <TextView
+        android:id="@+id/set_bgcolor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="Set widget background color: "
+        android:textSize="20sp"
+        app:layout_constraintTop_toBottomOf="@id/time_et"/>
+
+    <ImageView
+        android:id="@+id/color_ff00cc"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="24dp"
+        android:background="#ff00cc"
+        android:clickable="true"
+        android:focusable="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/rectangle"
+        app:layout_constraintTop_toBottomOf="@id/set_bgcolor"/>
+
+    <ImageView
+        android:id="@+id/color_6e3ad2"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="24dp"
+        android:background="#6e3ad2"
+        android:clickable="true"
+        android:focusable="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/rectangle"
+        app:layout_constraintLeft_toRightOf="@id/color_ff00cc"
+        app:layout_constraintTop_toBottomOf="@id/set_bgcolor"/>
+
+    <ImageView
+        android:id="@+id/color_6bddcf"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="24dp"
+        android:background="#6bddcf"
+        android:clickable="true"
+        android:focusable="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/rectangle"
+        app:layout_constraintLeft_toRightOf="@id/color_6e3ad2"
+        app:layout_constraintTop_toBottomOf="@id/set_bgcolor"/>
+
+    <ImageView
+        android:id="@+id/color_ec682e"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="24dp"
+        android:background="#ec682e"
+        android:clickable="true"
+        android:focusable="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/rectangle"
+        app:layout_constraintLeft_toRightOf="@id/color_6bddcf"
+        app:layout_constraintTop_toBottomOf="@id/set_bgcolor"/>
+
+    <ImageView
+        android:id="@+id/color_be3ac8"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="24dp"
+        android:background="#be3ac8"
+        android:clickable="true"
+        android:focusable="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/rectangle"
+        app:layout_constraintLeft_toRightOf="@id/color_ec682e"
+        app:layout_constraintTop_toBottomOf="@id/set_bgcolor"/>
+
+    <ImageView
+        android:id="@+id/color_4497f5"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="24dp"
+        android:background="#4497f5"
+        android:clickable="true"
+        android:focusable="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/rectangle"
+        app:layout_constraintLeft_toRightOf="@id/color_be3ac8"
+        app:layout_constraintTop_toBottomOf="@id/set_bgcolor"/>
+
+    <Button
+        android:id="@+id/bt1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginTop="24dp"
+        android:text="Ok"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/color_ff00cc"/>
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_gravity="center">
+
+        <!-- The rectangle is applied as src, not background -->
+        <ImageView
+            android:id="@+id/bgcolor"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/rectangle"
+            android:background="#ff00cc"
+            android:clickable="true"
+            android:focusable="true"
+            android:contentDescription="used as background"/>
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start|top"
+            android:text="@string/untitled"
+            android:textColor="#ffffff"
+            android:maxLines="2"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/my_date"
+            android:textColor="#ffffff"
+            android:text="Use to show date"
+            android:textSize="14sp"
+            android:layout_marginTop="8dp"
+            android:layout_gravity="start|center_vertical"/>
+
+        <Chronometer
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/chronometer"
+            android:layout_gravity="start|bottom"
+            android:textColor="#ffffff"
+            android:textSize="18sp"
+            android:fontFamily="sans-serif-condensed"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/show_days"
+            android:textColor="#ffffff"
+            android:textSize="18sp"
+            android:layout_gravity="start|bottom"
+            android:visibility="invisible"
+            android:fontFamily="sans-serif-condensed"/>
+
+        <!--<ImageButton
+            android:id="@+id/setting_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/setting_icon"
+            android:layout_gravity="right|end|bottom"/>-->
+    </FrameLayout>
+
+</LinearLayout>
