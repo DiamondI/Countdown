@@ -5,3 +5,7 @@ Countdown is my toy program. The idea is from an application named *Countdown Ti
 ## Requirements
 
 - Android 7.0+ required
+
+## Sample
+
+![sample](https://github.com/DiamondI/image/blob/master/sample.gif?raw=true)
