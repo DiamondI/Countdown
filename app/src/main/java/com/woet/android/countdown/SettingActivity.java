@@ -90,10 +90,12 @@ public class SettingActivity extends AppCompatActivity {
 
         if (!date.equals("")) {
             mEditTextForDate.setText(date);
+            widget_date = date;
         }
 
         if (!time.equals("")) {
             mEditTextForTime.setText(time);
+            widget_time = time;
         }
 
         mEditTextForTitle.setOnFocusChangeListener(new View.OnFocusChangeListener() {

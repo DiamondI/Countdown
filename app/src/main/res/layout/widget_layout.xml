@@ -39,7 +39,7 @@
             android:id="@+id/my_date"
             android:textColor="#ffffff"
             android:text="Use to show date"
-            android:textSize="14sp"
+            android:textSize="13sp"
             android:layout_marginTop="8dp"
             android:layout_gravity="start|center_vertical"/>
 
